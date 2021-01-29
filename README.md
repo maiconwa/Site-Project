@@ -3,5 +3,5 @@
 
 Project of a website created during a course about Git and GitHub.
 
-Website link below. It's hosted on GitHub Pages.
+It's hosted on GitHub Pages.
 
